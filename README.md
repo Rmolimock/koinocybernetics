@@ -6,6 +6,8 @@
 <br>
 
 # Introduction and Scope
+Koinocybernetics is a theoretical field focused on the study of self-governed systems, aiming to provide a generalized understanding of self-governance. It adopts an a priori approach, using deductive reasoning and mathematical modeling to explore the nature of self-governance with a level of rigor and objectivity not found in traditional social sciences.
+
 
 **A formalized and abstract understaning of self-governed systems.**<br>
 Koinocybernetics seeks a generalized understanding of self-governance and self-governed systems, independent of anthropocentric and/or specific instantiations within realms such as politics or artificial intelligence. The term is derived from the Greek words 'koinos' (common/public/joint) and 'kybernetes' (steersman), and is intended to convey the idea of 'joint steersmanship' or 'common governance.'
@@ -14,5 +16,5 @@ Koinocybernetics seeks a generalized understanding of self-governance and self-g
 Such a pursuit would find few if any valid cases to study, would not necessitate an independent field, and would be as dubious as those upon which it would rely. Instead, koinocybernetics is an a priori approach to understanding the nature of self-governance and self-governed systems with a mathematical rigor, logical clarity, and objectivity not present or possible in political science, political philosophy, or sociology. As such, it will be developed purely through the application of deductive reasoning and mathematical modeling.
 
 **A multidisciplinary approach.**<br>
-In time, koinocybernetics will draw upon insights from fields and concepts such as systems theory, game theory, and natural selection. As in cybernetics, it's abstraction from specific types of systems will enable it's application within and between a multiplicity of domains. Unlike cybernetics, however, it is both a descriptive and a normative field, as it seeks not only to describe the behavior of systems, but also to discover ideal structures, states, behaviors, and conditions for systems, given the nature of self-governance.
+In time, koinocybernetics will draw upon insights from fields and concepts such as systems theory, game theory, and natural selection. As in cybernetics, its abstraction from specific types of systems will enable it's application within and between a multiplicity of domains. Unlike cybernetics, however, it is both a descriptive and a normative field, as it seeks not only to describe the behavior of systems, but also to discover ideal structures, states, behaviors, and conditions for systems, given the nature of self-governance.
 

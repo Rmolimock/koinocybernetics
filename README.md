@@ -1,6 +1,8 @@
 # Koinocybernetics
 
-<i>The study of self-governed systems, or 'joint steersmanship.'</i>
+<i>
+My personal exploration of the theoretical foundations of self-governed systems, or 'joint steersmanship.'
+</i>
 
 ---
 <br>

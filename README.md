@@ -8,7 +8,7 @@ My personal exploration of the theoretical foundations of self-governed systems,
 <br>
 
 # Introduction and Scope
-Koinocybernetics is a theoretical field focused on the study of self-governed systems, aiming to provide a generalized understanding of self-governance. It adopts an a priori approach, using deductive reasoning and mathematical modeling to explore the nature of self-governance with a level of rigor and objectivity not found in traditional social sciences.
+Koinocybernetics is a theoretical framework focused on the study of self-governed systems, aiming to provide a generalized understanding of self-governance. It adopts an a priori approach, using deductive reasoning and mathematical modeling to explore the nature of self-governance with a level of rigor and objectivity not found in traditional social sciences.
 
 
 **A formalized and abstract understating of self-governed systems.**<br>
